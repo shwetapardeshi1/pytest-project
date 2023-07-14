@@ -1,4 +1,4 @@
-from api.helper import create_app
+from helper import create_app
 
 app = create_app()
 
